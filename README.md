@@ -1,0 +1,2 @@
+# JavaMailClient
+Java Mail client
